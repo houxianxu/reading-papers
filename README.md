@@ -17,6 +17,8 @@ A list of papers discussed in our GAN meeting.
 - SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows [[arXiv]](https://arxiv.org/abs/2007.02731) [[GitHub]](https://github.com/didriknielsen/survae_flows)
 - Deep Continuous Clustering [[arXiv]](https://arxiv.org/abs/1803.01449) [[GitHub]](https://github.com/shahsohil/DCC)
 - Robust Continuous Clustering [[PNAS]](https://www.pnas.org/content/114/37/9814) [[Bitbucket]](https://bitbucket.org/sohilas/robust-continuous-clustering/src/master/)
+- StyleGAN2 Distillation for Feed-forward Image Manipulation [[arXiv]](https://arxiv.org/abs/2003.03581) [[GitHub]](https://github.com/EvgenyKashin/stylegan2-distillation)
+- Self-Learning Transformations for Improving Gaze and Head Redirection [[arXiv]](https://arxiv.org/abs/2010.12307) [[GitHub]](https://github.com/zhengyuf/STED-gaze)
 
 
 
