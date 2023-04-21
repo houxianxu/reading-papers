@@ -1,8 +1,6 @@
-# awesome-GAN-meeting
+# Recently published papers
 
-A list of papers discussed in our GAN meeting.
-
-## Papers
+## Generative Adversarial Networks
 - Rewriting a Deep Generative Model [[arXiv]](https://arxiv.org/abs/2007.15646) [[GitHub]](https://github.com/davidbau/rewriting)
 - StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows [[arXiv]](https://arxiv.org/abs/2008.02401) [[GitHub]](https://github.com/RameenAbdal/StyleFlow)
 - MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1903.06048) [[GitHub]](https://github.com/akanimax/msg-stylegan-tf)
@@ -19,6 +17,8 @@ A list of papers discussed in our GAN meeting.
 - Robust Continuous Clustering [[PNAS]](https://www.pnas.org/content/114/37/9814) [[Bitbucket]](https://bitbucket.org/sohilas/robust-continuous-clustering/src/master/)
 - StyleGAN2 Distillation for Feed-forward Image Manipulation [[arXiv]](https://arxiv.org/abs/2003.03581) [[GitHub]](https://github.com/EvgenyKashin/stylegan2-distillation)
 - Self-Learning Transformations for Improving Gaze and Head Redirection [[arXiv]](https://arxiv.org/abs/2010.12307) [[GitHub]](https://github.com/zhengyuf/STED-gaze)
+
+## Diffusion Models
 
 
 
